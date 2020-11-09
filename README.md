@@ -1,6 +1,7 @@
 # Chessy (backend)
 
-DISCLAIMER: I know nothing to Chess! I am an extremely bad player. By doing this little app I hope it will help me to improve.
+DISCLAIMER: I know nothing about Chess! And I am an extremely bad player.
+By doing this little app I hope it will help me to improve.
 
 This is a very dummy chess position analyser back-end written in NodeJS.
 
